@@ -1,0 +1,30 @@
+pregunta 8
+respuesta
+
+ 
+Entidad: Causa
+ 
+-  id : Identificador único de cada causa, sirve para diferenciarla de las demás.
+
+
+-  titulo : Nombre o asunto principal de la petición.
+
+-  descripcion : Explicación detallada de la solicitud y sus motivos.
+
+-  fecha : Día y hora en que se creó la causa.
+
+Propósito: Almacena toda la información de cada petición que se registra en el sistema.
+ 
+ 
+ 
+Entidad: Apoyo
+ 
+-  id : Identificador único de cada registro de apoyo.
+
+-  causa_id : Enlace con el  id  de la causa que se está respaldando (relaciona ambas entidades).
+
+-  nombre : Nombre de la persona que brinda su apoyo.
+
+-  fecha : Día y hora en que se registró el respaldo.
+
+Propósito: Guarda la lista de personas que apoyan cada causa y permite contar los respaldos de forma automática.
