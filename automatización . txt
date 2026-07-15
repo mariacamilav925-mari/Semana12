@@ -1,0 +1,8 @@
+pregunta 9
+respuesta
+
+- Evento que activa la automatización: Cuando se registra un nuevo apoyo a una causa en el sistema.
+
+- Mensaje que se envía: "Nuevo apoyo registrado para la causa: [título de la causa]. Actualmente cuenta con [número total] respaldos."
+
+- Información que no debe enviarse por seguridad: Números de cédula, teléfonos, direcciones, comentarios sensibles o cualquier otro dato personal privado de los usuarios.
