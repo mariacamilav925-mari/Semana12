@@ -1,0 +1,17 @@
+pregunta 7
+respuesta
+
+
+1. Un ciudadano ingresa al sistema y completa los datos básicos de la causa que desea presentar.
+
+
+2. El sistema guarda la información de la causa en la base de datos y le asigna un identificador único.
+
+3. Otros usuarios consultan la causa y confirman su apoyo con un solo clic, registrando su respaldo.
+
+4. El sistema lleva un conteo automático de la cantidad total de apoyos recibidos.
+
+5. Al alcanzar el número mínimo de respaldos requeridos, el sistema genera de forma automática un documento PDF con la petición comple
+ta.
+
+6. El usuario puede descargar el documento listo para ser presentado ante las autoridades correspondientes.
